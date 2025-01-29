@@ -22,7 +22,7 @@ export default function Hero() {
             {/* {Image Div} */}
             <div className="w-[292px] h-[299px] relative flex items-center justify-center">
                 <Image className="z-50"
-                   src={"/Images/hero-image.png"}
+                   src={"/images/hero-image.png"}
                     alt="hero-Image"
                     width={292}
                     height={299}
