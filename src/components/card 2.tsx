@@ -7,9 +7,10 @@ export default function Card2(){
              {/* {Image Div} */}
              <div className="bg-#CFA6A61C ] flex flex-col md:flex-row ">
                 <div className="radius={6px}  ">
-                    <Image src="/Images/Rectangle 2.png" alt="Image 2" width={300}
+                    <Image src="/images/Rectangle 2.png" alt="Image 2" width={300}
                     height={300} className="w-[246px] md:h-[180px]"/>
                 </div>
+
 
                 {/* {Text Div} */}
                 <div className=' w-[225px] md:w-[623.46px] h-[272.1px] ml-[20px]'>
